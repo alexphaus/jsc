@@ -1,6 +1,6 @@
 class Animal
 {
-	name = "caca";
+	name = "John";
 	
 	sayHi() {
 		"hola soy " + name;
