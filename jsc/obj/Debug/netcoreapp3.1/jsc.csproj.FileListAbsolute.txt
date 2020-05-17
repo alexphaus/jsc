@@ -1,0 +1,13 @@
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.csprojAssemblyReference.cache
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.csproj.CoreCompileInputs.cache
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.AssemblyInfoInputs.cache
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.AssemblyInfo.cs
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc.deps.json
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc.runtimeconfig.json
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc.runtimeconfig.dev.json
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc.dll
+/media/elementary/SD/jsc/bin/Debug/netcoreapp3.1/jsc.pdb
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.dll
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.pdb
+/media/elementary/SD/jsc/obj/Debug/netcoreapp3.1/jsc.genruntimeconfig.cache
